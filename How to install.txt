@@ -1,0 +1,9 @@
+1.Open your terminal and use "cd " command to the place you put the document "SVCM_1.0.tar".
+
+2.Type " R CMD INSTALL SVCM_1.0.tar.gz " in your terminal to install this package.
+
+3.Then open R studio you can see the SVCM package has been added to your package list.
+
+4.Type "library(SVCM)" in R.
+
+5.Then you can see the documents for this package and any function
